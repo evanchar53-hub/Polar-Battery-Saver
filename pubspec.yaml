@@ -23,7 +23,7 @@ dev_dependencies:
 
 flutter_launcher_icons:
   android: true
-  ios: true
+  ios: false
   image_path: "assets/icon/polar_saver_icon.png"
   adaptive_icon_background: "#1E40AF"
   adaptive_icon_foreground: "assets/icon/polar_saver_icon.png"
